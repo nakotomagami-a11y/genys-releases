@@ -16,7 +16,7 @@ Public download artifacts for [Genys](https://genys.app) — AI-powered game lib
 - [Genys_0.1.0_amd64.deb](https://github.com/nakotomagami-a11y/genys-releases/releases/latest/download/Genys_0.1.0_amd64.deb) — Debian/Ubuntu
 
 ### Web
-No download required — use at [genys.app](https://genys.app)
+No download required — use at [project-genys-web.vercel.app](https://project-genys-web.vercel.app/)
 
 ## About
 Genys is an AI-powered game library management and recommendation platform. Connect your Steam, Epic, Xbox, PlayStation, and 20+ gaming platforms. Get personalized game recommendations based on your mood and available time.
